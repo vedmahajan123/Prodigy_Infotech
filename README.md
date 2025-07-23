@@ -1,5 +1,5 @@
 
-# 🚢 Prodigy Infotech – Task 01: Data Cleaning & Exploratory Data Analysis 
+# Prodigy Infotech – Task 01: Data Cleaning & Exploratory Data Analysis 
 
 This repository contains my submission for **Task 01** of the **Data Science Internship at Prodigy Infotech**. Through this task, I performed data cleaning and exploratory data analysis on the Titanic dataset, exploring survival trends and visualizing key features.
 
